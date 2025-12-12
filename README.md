@@ -10,3 +10,7 @@ This repository contains the "Photographer Website Project," created as the fina
 You can view the presentation directly online:
 
 [Open the presentation](https://cloegatti.github.io/pitch/)
+
+And the website is here:
+
+[Open the webpage](https://cloegatti.github.io)
